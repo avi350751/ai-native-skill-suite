@@ -1,0 +1,4 @@
+interface:
+  display_name: "Early Career AI-Native Coach"
+  short_description: "Build applied AI capability from any starting field"
+  default_prompt: "Use $early-career-ai-native to assess my background and build an applied path from AI novice to AI-native contributor."

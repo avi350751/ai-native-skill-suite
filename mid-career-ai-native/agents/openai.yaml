@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mid-Career AI-Native Coach"
+  short_description: "Redesign expert work and lead AI adoption"
+  default_prompt: "Use $mid-career-ai-native to turn my domain expertise into an AI-enabled workflow and adoption roadmap."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "CXO AI-Native Transformation"
+  short_description: "Lead governed enterprise AI transformation"
+  default_prompt: "Use $cxo-ai-native to assess our enterprise AI maturity and define a value-led transformation agenda."
